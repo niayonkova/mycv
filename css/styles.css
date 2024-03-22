@@ -55,3 +55,8 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.bio-text-nia {
+	font-weight:700;
+	text-align: center;
+	color: #230062
+}
